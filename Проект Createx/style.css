@@ -1,5 +1,319 @@
-.card{
+.card1{
 	background-image: url('img/background.png');
 	background-size: cover;
 	background-position: center;
+}
+
+.a1 {
+	text-decoration: none;
+	color: #424551;
+	font-weight: 500;
+}
+
+.text {
+	font-size: 72px;
+	font-weight: 700;
+}
+
+.text2 {
+	font-size: 20px;
+	color: #787A80;
+}
+
+.text3 {
+	font-size: 46px;
+	font-weight: 700;
+	color: #1E212C;
+}
+
+.text4 {
+	color: #787A80;
+	margin-left: 58px;
+}
+
+.text5 {
+	font-weight: 700;
+	color: #1E212C;
+}
+
+.text6 {
+	font-weight: 700;
+	color: #FFFFFF;
+}
+
+.text7 {
+	color: #FFFFFF;
+}
+
+.items {
+	margin-right: 25px;
+	margin-left: 10px;
+}
+
+.imageK {
+	width: 680px;
+}
+
+.card2 {
+	background-color: #1E212C;
+	background-size: cover;
+	background-position: center;
+}
+
+.Our-benefits {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+.benefits-container {
+  	display: flex;
+  	justify-content: space-between;
+  	gap: 40px;
+  	max-width: 1200px;
+  	margin: 0 auto;
+}
+
+.benefit-item {
+  	flex: 1;
+  	text-align: center;
+}
+
+.benefit-item-bord {
+  	border: none; 
+	border-right: 1px solid #ccc; 
+	border-left: 1px solid #ccc;
+}
+
+
+.benefit-description {
+  	font-size: 0.9rem;
+  	line-height: 1.6;
+  	color: #ccc;
+}
+
+.discuss {
+ 	height: 52px;
+ 	display: flex;
+ 	ustify-content: space-between;
+ 	max-width: 1200px;
+ 	margin: 0 auto;
+}
+
+.discuss-item {
+ 	flex: 1;
+ 	text-align: center;
+}
+
+.discuss-butt {
+ 	height: 52px;
+ 	width: 330px;
+ 	color: #FFFFFF;
+ 	background-color: #FF5A30;
+ 	font-weight: 500;
+ 	border-radius: 4px;
+ 	border: none;
+}
+
+.card-title {
+	font-weight: bold;
+}
+
+.card-butt {
+ 	height: 44px;
+ 	width: 172px;
+ 	color: #FF5A30;
+ 	background-color: transparent;
+ 	font-weight: 500;
+ 	border-radius: 4px;
+ 	border-color: #FF5A30;
+ 	border-width: 1px;
+ 	font-weight: bold;
+}
+
+.card-container {
+  	display: flex;
+  	gap: 30px;
+ 	text-align: center;
+}
+
+.card3 {
+	box-shadow: 0 10px 19px rgba(0, 0, 0, 0.1);
+	border: none;
+	flex: 1;
+}
+
+.button-arrow {
+	border: none;
+	margin-top: 70px;
+	background-color: white;
+}
+
+.Explore {
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+}
+
+.discuss-butt2 {
+ 	height: 52px;
+ 	width: 224px;
+ 	color: #FFFFFF;
+ 	background-color: #FF5A30;
+ 	font-weight: 500;
+ 	border-radius: 4px;
+ 	border: none;
+}
+
+.card4 {
+	background-image: url('img/Background1.svg');
+	background-size: cover;
+	background-position: center;
+}
+
+.Pricing {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+.pricing-table-container {
+  	max-width: 1230px;
+ 	margin: 60px auto;
+}
+
+.table {
+  	box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  	margin-bottom: 100px;
+}
+
+.table th {
+  	padding: 16px;
+}
+
+.table td {
+  	padding: 16px;
+}
+
+.table-butt {
+  	border-width: 1px;
+  	border-color: #FF5A30;
+  	border-radius: 4px;
+  	color: #FF5A30;
+  	background-color: transparent;
+  	font-size: 12px;
+  	font-weight: bold;
+  	width: 143px;
+  	height: 36px;
+  	margin: 20px;
+}
+
+.Supported {
+	display: flex;
+	justify-content: center;
+	gap: 100px;
+}
+
+.Supported img {
+	margin-bottom: 100px;
+}
+
+.card5 {
+	background-image: url('img/Background2.svg');
+	background-size: cover;
+	background-position: center;
+}
+
+.textarea1 {
+	resize: none;
+	background-color: #F4F5F6;
+}
+
+.input1 {
+	background-color: #F4F5F6;
+	height: 44px;
+}
+
+.checkbox1 {
+	margin-right: 10px;
+}
+
+.quick-butt {
+ 	height: 44px;
+ 	width: 174px;
+ 	margin-left: 130px;
+ 	color: #FFFFFF;
+ 	background-color: #FF5A30;
+ 	font-weight: 500;
+ 	border-radius: 4px;
+ 	border: none;
+}
+
+.card6 {
+	background-color: #1E212C;
+	background-size: cover;
+	background-position: center;
+}
+
+.text8 {
+	font-size: 15px;
+	color: #787A80;
+}
+
+.text9 {
+	font-size: 16px;
+	color: #787A80;
+}
+
+.text10 {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.text11 {
+	font-size: 24px;
+	color: #FFFFFF;
+}
+
+.input-group{
+	width: 535px;
+}
+
+.form-control::placeholder {
+  color: #787A80;
+}
+
+
+.input2 {
+	background-color: #3f434a;
+	border-color: #787A80;
+}
+
+.quick-butt2 {
+ 	height: 44px;
+ 	width: 131px;
+ 	color: #FFFFFF;
+ 	background-color: #FF5A30;
+ 	font-weight: 500;
+ 	border-radius: 4px;
+ 	border: none;
+ 	font-size: 16px;
+}
+
+.gl {
+	margin-top: 50px;
+}
+
+.butGOTOTOP {
+	width: 40px;
+	height: 40px;
+	background-color: #FF5A30;
+	border-radius: 4px;
+ 	border: none;
+ 	margin-left: 15px;
+ 	display: flex;
+    align-items: center;
+    justify-content: center;
 }

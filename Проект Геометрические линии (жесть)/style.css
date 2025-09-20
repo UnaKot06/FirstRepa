@@ -1,0 +1,139 @@
+.card1 {
+	background-color: #F9F9F9;
+}
+.card2 {
+	background-image: url('img/Rectangle-11.svg');
+	background-size: cover;
+	background-position: center;
+}
+.card3 {
+	background-image: url('img/Rectangle-12.png');
+	background-size: cover;
+	background-position: center;
+}
+.card4 {
+	background-color: #1C1C1C;
+}
+.EADAS {
+	background-color: #313131;
+}
+a {
+	text-decoration: none;
+}
+.logo {
+	margin-top: 75px;
+	margin-left: 60px;
+}
+.logo2 {
+	margin-top: 75px;
+	margin-left: 40px;
+	margin-bottom: 75px;
+}
+.networks {
+	display: flex;
+	justify-content: start;
+	flex-direction: column;
+	gap: 130px;
+	margin-top: 301px;
+}
+.transform {
+	transform: rotate(-90deg);
+  transform-origin: top left;
+  color: #696969;
+}
+.contact-info {
+	margin-top: 190px;
+	margin-bottom: 90px;
+}
+.text1 {
+	color: #696969;
+}
+.text2 {
+	color: #696969;
+	font-size: 13px;
+}
+.text-blue {
+	color: #B6D7E8;
+	font-size: 20px;
+}
+.text-justify {
+	text-align: justify;
+}
+.breadcrumb-item,
+.breadcrumb-item a {
+  color: #696969;
+}
+.breadcrumb-item.active {
+	color: #C8C7C7;
+}
+.hero-text {
+  font-size: 100px;
+  font-weight: 900;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  margin: 0;
+  margin-top: 200px;
+      /* Выход за пределы контейнера */
+  position: relative;
+  margin-left: -170px;
+}
+.img-fluid {
+	position: relative;
+}
+.img-Rectangle {
+	position: absolute;
+	width: 400px;
+  height: auto;
+  margin-top: 364px;
+  margin-left: 445px;
+
+}
+.img-Rectangle6 {
+	width: 842px;
+  height: 510px;
+  margin-left: 90px;
+  margin-bottom: 100px;
+}
+.img-Rectangle8 {
+	width: 842px;
+  margin-top: 50px;
+  margin-left: 90px;
+}
+.img-Rectangle9 {
+	width: 842px;
+  margin-left: 90px;
+}
+.form-select {
+	width: 400px;
+	height: 50px;
+	border-radius: 0px;
+	background-color: transparent;
+	color: white;
+	font-size: 20px;
+	padding-left: 40px;
+	border-color: #B6D7E8;
+	background-image: url("img/icons8-expand-arrow-30.svg");
+  background-size: 60px 28px;
+}
+option {
+	color: black;
+}
+.custom-range {
+  height: 1px;
+  background: #a3c4d9;
+ 	width: 400px;
+}
+.number {
+	margin-left: 360px;
+}
+.butt {
+	width: 400px;
+	height: 55px;
+	background-color: #B6D7E8;
+	border: none;
+}
+.navbar-golovna {
+	margin-left: 200px;
+	margin-top: 5px;
+}
